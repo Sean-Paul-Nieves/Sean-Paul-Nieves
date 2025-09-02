@@ -1,3 +1,4 @@
+<img src="assets/GitHub Banner.png" alt="Banner Image of the GitHub Profile" height="300" width="900"/>
 # 💫 About Me:
 <p align="center"> 🎓 Information Technology Specializing in Animation and Game Development at FEU: Institute of Technology<br>🌱 Aspiring Game Developer </p>
 
@@ -19,11 +20,6 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sean-Paul-Nieves&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
-</div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
 
 ### 🔝 Top Contributed Repo
